@@ -1,4 +1,5 @@
 # touch-bar-restart
+![icon](https://github.com/zacharyspaton/touch-bar-restart/blob/master/bruh.png?raw=true)
 A simple automator script converted to a .app that restarts the touch bar control strip (along with the escape key for 2018 and older touchbar models)
 
 Click [here](https://github.com/zacharyspaton/touch-bar-restart/raw/master/Restart%20Control%20Strip.app.zip) to download it
