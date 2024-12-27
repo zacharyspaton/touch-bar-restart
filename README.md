@@ -1,9 +1,9 @@
 # touch-bar-restart
-A simple automator script converted to a .app that restarts the touch bar control strip (along with the escape key for 2018 and older touchbar models)
+A simple automator script - restarts the MacBook touch bar control strip (along with the escape key for 2018 and older models with touchbar)
 
 Click [here](https://github.com/zacharyspaton/touch-bar-restart/releases) to download it
 
-It's literally just a shell command made quick and easy to run with a .app you can chuck in your dock
+Nothing more than a shell command made quick and easy to run with a .app you can chuck in your dock
 ```
 pkill "Touch Bar agent";
 killall "ControlStrip";
